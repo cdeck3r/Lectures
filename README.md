@@ -15,7 +15,8 @@ Lectures in Master program of Services Computing at the [Herman Holerith Zentrum
 
 * Internet of Things (IoT)
 
-**Twitter:** If interested, you may also want to follow my lecture activities on Twitter: [@RTWIB_cdecker](https://twitter.com/rtwib_decker) or [#RTWIBSE](https://twitter.com/hashtag/RTWIBSE).
+## Twitter
+If interested, you may also want to follow my lecture activities on Twitter: [@RTWIB_cdecker](https://twitter.com/rtwib_decker) or [#RTWIBSE](https://twitter.com/hashtag/RTWIBSE).
 
 ---
 All software and documents are licensed under the MIT license (see LICENSE file).
