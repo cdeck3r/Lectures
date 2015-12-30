@@ -2,7 +2,7 @@
 
 This reposity collects additional lecture material for public use.
 
-Nomenclature: <year>_<term>_<lecture>
+Nomenclature: `<year>_<term>_<lecture>`
 
 The following lectures are undergrad lecture on software engineering at the Reutlingen University.
 They are held in winter and summer term.
@@ -15,7 +15,7 @@ Lectures in Master program of Services Computing at the [Herman Holerith Zentrum
 
 * Internet of Things (IoT)
 
-If interested, you may also want to follow my lecture activities on Twitter: [@RTWIB_cdecker](https://twitter.com/rtwib_decker) or [#RTWIBSE](https://twitter.com/hashtag/RTWIBSE).
+**Twitter:** If interested, you may also want to follow my lecture activities on Twitter: [@RTWIB_cdecker](https://twitter.com/rtwib_decker) or [#RTWIBSE](https://twitter.com/hashtag/RTWIBSE).
 
 ---
 All software and documents are licensed under the MIT license (see LICENSE file).
